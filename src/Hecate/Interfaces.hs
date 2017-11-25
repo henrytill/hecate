@@ -1,3 +1,5 @@
+{-# LANGUAGE FlexibleInstances #-}
+
 module Hecate.Interfaces
   ( HasConfig(..)
   , HasAppContext(..)
